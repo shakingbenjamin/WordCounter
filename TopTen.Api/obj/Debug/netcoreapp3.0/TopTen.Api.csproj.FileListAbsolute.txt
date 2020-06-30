@@ -1,0 +1,17 @@
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/TopTen.Api.deps.json
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/TopTen.Api.runtimeconfig.json
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/TopTen.Api.runtimeconfig.dev.json
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/TopTen.Api.dll
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/bin/Debug/netcoreapp3.0/TopTen.Api.pdb
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.csprojAssemblyReference.cache
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/staticwebassets/TopTen.Api.StaticWebAssets.Manifest.cache
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/staticwebassets/TopTen.Api.StaticWebAssets.xml
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.AssemblyInfoInputs.cache
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.AssemblyInfo.cs
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.RazorTargetAssemblyInfo.cache
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.dll
+/Users/benjamintraves/Documents/dev/core/TopTen/TopTen.Api/obj/Debug/netcoreapp3.0/TopTen.Api.pdb
